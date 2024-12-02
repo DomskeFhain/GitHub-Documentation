@@ -1,0 +1,3 @@
+# Was ist "Git" und was versteht man darunter?
+
+## Git ist ein Open-Source-Tool welches für die Versionskontrolle von Software verwendet wird. Es wurde 2005 von Linus Torvalds ins Leben gerufen wurde. Git erlaubt mehreren Entwicklern an einem Projekt zu arbeiten, indem sie eine lokale Arbeitskopie des kompletten Repositorys (und somit der Projektdaten) auf ihrem Rechner haben. Git macht es für die Entwickler möglich Änderungen des Codes zu verfolgen, sie rückgängig zu machen, sie anderen zur Verfügung zu stellen und über Git auch Änderungen von anderen einzuholen. Weil jeder Entwickler eine Kopie der vollständigen Projektdaten hat, ist Git ein verteiltes Versionskontrollsystem.
