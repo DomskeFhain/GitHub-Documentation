@@ -1,0 +1,3 @@
+# Was genau ist GitHub?
+
+## Bei GitHub handelt es sich um einen Open-Source-Hosting-Dienst, der es Programmierern und Entwicklern ermöglicht, den Computercode für ihre Projekte freizugeben, um so gemeinschaftlich daran zu arbeiten.  Indem Sie Code in einem „Repository“ auf GitHub speichern, können Sie: Ihre Arbeit präsentieren oder teilen. Änderungen an Ihrem Code im Laufe der Zeit nachverfolgen und verwalten. Man kann den Dienst als eine Art Cloud für Computercodes bezeichnen.
